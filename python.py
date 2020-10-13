@@ -15,7 +15,7 @@
 # print('HelloWorld123')
 
 # 118 pascal's Triangle
-numsRows = 6
+numsRows = 3
 
 def generate(rows):
     result=[]
